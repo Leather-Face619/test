@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bun": "^1.1.10",
     "pdf-creator-node": "^2.3.5",
     "pdf2html": "^3.1.0"
   }
